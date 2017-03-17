@@ -5,4 +5,5 @@ deviceName    = "F8132"
 app           = "app/daipresents.apk"
 
 [appium_lib]
-wait  = 10
+wait_timeout  = 30
+wait_interval = 1
