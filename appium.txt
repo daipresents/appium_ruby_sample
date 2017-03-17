@@ -1,0 +1,8 @@
+[caps]
+platformName  = "Android"
+versionNumber = "0.1"
+deviceName    = "F8132"
+app           = "app/daipresents.apk"
+
+[appium_lib]
+wait  = 10
