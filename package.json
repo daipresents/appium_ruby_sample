@@ -1,0 +1,12 @@
+{
+  "name": "appium_ruby_sample",
+  "version": "0.0.1",
+  "description": "This is sample project for appium ruby",
+  "author": "daipresents",
+  "license": "MIT",
+  "repository": "https://github.com/daipresents/appium_ruby_sample",
+  "dependencies": {
+    "appium": "1.14.0",
+    "appium-doctor": "1.11.0"
+  }
+}
