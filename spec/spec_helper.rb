@@ -4,7 +4,6 @@ require 'rspec/expectations'
 require 'appium_lib'
 require 'appium_lib/logger'
 
-require_relative '../lib/driver'
 require_relative '../lib/pages/top_page'
 require_relative '../lib/pages/search_result_page'
 
