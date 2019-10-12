@@ -104,10 +104,10 @@ $ gem install nokogiri -v 1.6.3.1 -- --with-xslt-dir=/usr/local/opt/libxslt --wi
 It's good to set these value to `.bash_profile` etc.
 
 ```
-export JAVA_HOME=$(/usr/libexec/java_home -v `cat .java-version`)
+export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
 export ANDROID_HOME=$HOME/Library/Android/sdk
 PATH=$PATH:$ANDROID_HOME/platform-tools
-PATH=$PATH:$ANDROID_HOME/build-tools
+PATH=$PATH:$ANDROID_HOME/build-tools/29.0.2
 PATH=$PATH:$ANDROID_HOME/tools
 export PATH
 ```
