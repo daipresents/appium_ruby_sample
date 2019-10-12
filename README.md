@@ -56,6 +56,7 @@ see also:
 Need Java 8 for appium
 
 ```
+$ brew tap AdoptOpenJDK/openjdk
 $ brew cask install adoptopenjdk8 
 ```
 
