@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "https://github.com/daipresents/appium_ruby_sample",
   "dependencies": {
-    "appium": "1.22.3",
+    "appium": "2.19.0",
     "appium-doctor": "1.11.0"
   }
 }
